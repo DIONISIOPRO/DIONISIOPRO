@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DIONISIOPRO
-- 👀 I’m interested in Android Native Development
-- 🌱 I’m currently learning how to create Better android APPS
-- 💞️ I’m looking to collaborate on Any Android Project
+- 👀 I’m interested in Backend Web Development
+- 🌱 I’m currently learning how to create Betteer Server side Applications
+- 💞️ I’m looking to collaborate on Any Golang Web Project
 - 📫 You can contact me on dionisiopaulonamuetho@gmail.com
